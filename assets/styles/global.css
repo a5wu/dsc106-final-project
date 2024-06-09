@@ -20,7 +20,7 @@
   --z-overlay: 1000;
 
   /* Color Variables */
-  --bg: var(--white);
+  --bg: #e5f7ff;
   --default: var(--black);
   --primary: var(--darksquidink);
 }
