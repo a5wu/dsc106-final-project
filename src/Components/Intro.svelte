@@ -3,15 +3,12 @@
 
 <section>
   <p class="body-text">
-    Lorem ipsum dolor sit amet <a href="">random link</a> adipisicing elit. Esse
-    dolor nobis
-    <span class="bold">bold text</span> eius voluptate distinctio odit ut quod illo!
-    Nulla consequatur fugiat quia commodi aspernatur necessitatibus est doloremque
-    quam vitae dolorem. Vitae natus ipsum animi officiis et quis obcaecati in molestiae
-    aperiam, perferendis odio a ipsam nam suscipit laboriosam corporis excepturi
-    quisquam? Ratione delectus repellat error maxime quo beatae ullam, quod
+    <a href="https://en.wikipedia.org/wiki/PageRank">PageRank</a> is an algorithm developed by Larry Page and Sergey Brin in 1996
+    while they were PHD students at Stanford University.  
+    <span class="bold">bold text</span> In this article we will reconstruct this famous algorithm 
+    in order to learn how it works.
   </p>
-  <p class="body-text">This is a trr</p>
+  <p class="body-text"></p>
 </section>
 
 <style>

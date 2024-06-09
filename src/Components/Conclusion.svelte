@@ -1,16 +1,15 @@
 <section id="conclusion">
-  <h1 class="body-header">Concluding Text</h1>
+  <h1 class="body-header">Conclusion</h1>
   <p class="body-text">
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos voluptas dicta
-    blanditiis doloremque dolorum asperiores fugiat non, obcaecati maiores id,
-    voluptatum possimus libero iure laudantium dignissimos corrupti? Iure omnis
-    consectetur aperiam ipsam quod eum quas similique atque laboriosam ex
-    accusantium quaerat laudantium, est a libero sed cumque odio perspiciatis
-    enim, sequi, corrupti alias beatae nulla. Iure est ut dignissimos debitis
-    optio quasi vel distinctio officiis doloremque, ad voluptates, omnis nam
-    corporis, aut exercitationem ex excepturi tempore et modi unde alias nemo
-    accusantium. Tempore odio nulla ex ad ut molestiae unde minima ipsam
-    aliquid, omnis, labore commodi aliquam incidunt ratione autem?
+    PageRank is a powerful algorithm that has shaped the way we interact with the web. 
+    Of course, the algorithm alone can be gamed. Google has since introduced many other 
+    techniques to improve search results, such as click-through rates, bounce rates, time 
+    spent on page, NLP, and more. If the recent Google algorithm 
+    leak is to be real, there are currently 14k+ ranking features that comprise Google search. 
+    A whole industry has been built around optimizing for Google's search engine. It remains 
+    to be seen whether someone can come up with a search engine that can compete with 
+    Google's. To learn more about how search engine algorithms work 
+    one should study network science, graph theory, and markov chains. 
   </p>
 </section>
 
