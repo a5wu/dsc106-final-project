@@ -1,8 +1,8 @@
 <section id="intro">
   <h1 id="intro-hed">PageRank</h1>
-  <h1 class="intro-sub">Exploring the Alogorithm that powered Google 1.0</h1>
+  <h1 class="intro-sub">Exploring the Algorithm that powered Google 1.0</h1>
   <h3 id="intro__date">
-    <a href="https://twitter.com/" target="_blank">Aleck Wu</a>, May 2024
+    <a href="https://twitter.com/" target="_blank">Aleck Wu</a> & <a href="https://youtube.com/" target="_blank">Luis Martinez-Chun</a>, May 2024
   </h3>
 </section>
 
